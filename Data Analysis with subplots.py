@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Assuming your CSV file is named 'sales_data.csv'
+# Assuming your CSV file is named 'finance_liquor_sales.csv'
 df = pd.read_csv('https://storage.googleapis.com/courses_data/Assignment%20CSV/finance_liquor_sales.csv')
 
 # Display the first 5 rows of the dataset just to check the structure
